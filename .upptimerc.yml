@@ -3,7 +3,6 @@ owner: LevMuchnik # Your GitHub organization or username, where this repository 
 repo: upptime # The name of this repository
 
 sites:
-sites:
   - name: Home Network
     # Use the $ sign to tell Upptime to use your secret
     url: $MY_LAN_URL
