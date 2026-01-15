@@ -2,6 +2,9 @@
 owner: LevMuchnik # Your GitHub organization or username, where this repository lives
 repo: uptime # The name of this repository
 
+workflow-schedule:
+  uptime: "*/5 * * * *"
+  
 sites:
   - name: Home Network
     # Use the $ sign to tell Upptime to use your secret
